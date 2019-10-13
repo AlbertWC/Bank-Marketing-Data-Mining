@@ -1,0 +1,5 @@
+,job,marital,education,default,housing,loan,contact,month,day_of_week,poutcome,y
+count,41188,41188,41188,41188,41188,41188,41188,41188,41188,41188,41188
+unique,12,4,8,3,3,3,2,10,5,3,2
+top,admin.,married,university.degree,no,yes,no,cellular,may,thu,nonexistent,no
+freq,10422,24928,12168,32588,21576,33950,26144,13769,8623,35563,36548
